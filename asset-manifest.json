@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-To-Do-App/static/css/main.a463548e.chunk.css",
+    "main.js": "/React-To-Do-App/static/js/main.3bb394c9.chunk.js",
+    "main.js.map": "/React-To-Do-App/static/js/main.3bb394c9.chunk.js.map",
+    "runtime-main.js": "/React-To-Do-App/static/js/runtime-main.85a51a5f.js",
+    "runtime-main.js.map": "/React-To-Do-App/static/js/runtime-main.85a51a5f.js.map",
+    "static/js/2.687f9fcf.chunk.js": "/React-To-Do-App/static/js/2.687f9fcf.chunk.js",
+    "static/js/2.687f9fcf.chunk.js.map": "/React-To-Do-App/static/js/2.687f9fcf.chunk.js.map",
+    "static/js/3.c803559e.chunk.js": "/React-To-Do-App/static/js/3.c803559e.chunk.js",
+    "static/js/3.c803559e.chunk.js.map": "/React-To-Do-App/static/js/3.c803559e.chunk.js.map",
+    "index.html": "/React-To-Do-App/index.html",
+    "static/css/main.a463548e.chunk.css.map": "/React-To-Do-App/static/css/main.a463548e.chunk.css.map",
+    "static/js/2.687f9fcf.chunk.js.LICENSE.txt": "/React-To-Do-App/static/js/2.687f9fcf.chunk.js.LICENSE.txt",
+    "static/media/ananas.dd50faff.jpg": "/React-To-Do-App/static/media/ananas.dd50faff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85a51a5f.js",
+    "static/js/2.687f9fcf.chunk.js",
+    "static/css/main.a463548e.chunk.css",
+    "static/js/main.3bb394c9.chunk.js"
+  ]
+}
