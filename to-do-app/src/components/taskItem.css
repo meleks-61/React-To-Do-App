@@ -1,0 +1,67 @@
+ /* .kutu,
+.tic,
+.times{
+    display: inline;
+} */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;1,300&display=swap');
+ p{
+    
+     
+    /* display: inline; */
+    /* width: 250px; */
+    word-wrap: break-word;
+    transition: transform 0.3s ease-out;
+    font-family: 'Ubuntu', sans-serif;
+    
+ 
+    
+} 
+ .taskitem{
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+    border-radius: 10px;
+    /* position: relative; */
+     font-size: 13px; 
+    /* width: 260px;  */
+    height: 30px;
+      margin-bottom: 5px;
+     padding-left: 3px; 
+    padding-right: 4px; 
+    padding-bottom: 6px; 
+} 
+.overline{
+    text-decoration: line-through;
+}
+.times{
+    visibility:hidden;
+    transition: transform 0.3s ease-out;
+    position: relative;
+    top: 3px;
+}
+.taskitem:hover .times{
+    visibility: visible;
+    transform: scale(1.40);
+    
+}
+.taskitem:hover{
+    /* opacity: ; */
+    box-shadow: 3px 3px 5px rgba(248, 215, 215, 0.7);
+
+}
+.kutu,
+.tic{
+    transition: transform 0.3s ease-out;
+}
+
+.taskitem:hover .kutu{
+    transform: scale(1.40);
+
+}
+.taskitem:hover .tic{
+    transform: scale(1.40);
+}
+.kutu{
+    font-size: 14px; 
+
+}

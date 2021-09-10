@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+
+.add-input{
+    
+    max-width: 280px;
+    align-items: center;
+    border-radius: 7px;
+    margin-bottom: 7px;
+    background-color: blanchedalmond;
+    
+}
+.add-input:hover{
+    box-shadow: 3px 3px 5px rgba(248, 215, 215, 0.7);
+    
+}
+#task{
+    outline: none;
+    border: none;
+    width: 70%;
+    margin-bottom: 3px;
+    background-color: blanchedalmond;
+    font-family: 'Ubuntu', sans-serif;
+}
+.pen{
+    position: relative;
+    right: 11px;
+    vertical-align: middle;
+    cursor: pointer;
+    transition: transform 0.3s ease-out;
+    
+    
+    
+}
+.add-task{
+    /* width: 100vw;
+    height: 100vh; */
+    /* border: 1px solid blue; */
+}
+.plus{
+    position: relative;
+    left: 13px;
+    vertical-align: middle;
+    cursor: pointer;
+    size: 3px;
+    transition: transform 0.3s ease-out;
+    
+}
+.add-input:hover .pen{
+    transform: scale(1.15);
+}
+.plus:hover{
+    transform: scale(1.15);
+}
+
+    
+
+
